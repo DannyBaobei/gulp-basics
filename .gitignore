@@ -9,3 +9,10 @@ node_module/
 *.suo/
 
 build/
+
+##Generated files
+.ntvs_analysis.dat*
+.vs/
+node_modules/
+
+
