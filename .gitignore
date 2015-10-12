@@ -1,3 +1,11 @@
-/node_modules/
+## Folders
+# Ignore the Webstorm / IntelliJ IDEA files, with the exception of the shared run configurations.
+.idea/*
+!.idea/runConfigurations
 
-/build/
+node_module/
+##Files
+.DS_STORE
+*.suo/
+
+build/
